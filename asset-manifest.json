@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ecomsite/static/css/main.c149ebbf.css",
+    "main.js": "/Ecomsite/static/js/main.75861973.js",
+    "index.html": "/Ecomsite/index.html",
+    "main.c149ebbf.css.map": "/Ecomsite/static/css/main.c149ebbf.css.map",
+    "main.75861973.js.map": "/Ecomsite/static/js/main.75861973.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c149ebbf.css",
+    "static/js/main.75861973.js"
+  ]
+}
